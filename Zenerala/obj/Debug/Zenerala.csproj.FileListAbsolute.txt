@@ -1,0 +1,24 @@
+\\buec-s-50009\s.otero$\cached\my documents\SharpDevelop Projects\Zenerala\Zenerala\bin\Debug\Zenerala.exe
+\\buec-s-50009\s.otero$\cached\my documents\SharpDevelop Projects\Zenerala\Zenerala\bin\Debug\Zenerala.pdb
+\\buec-s-50009\s.otero$\cached\my documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.csprojResolveAssemblyReference.cache
+\\buec-s-50009\s.otero$\cached\my documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.MainForm.resources
+\\buec-s-50009\s.otero$\cached\my documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.csproj.GenerateResource.Cache
+\\buec-s-50009\s.otero$\cached\my documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.exe
+\\buec-s-50009\s.otero$\cached\my documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.pdb
+\\buec-s-50009\s.otero$\cached\my documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.FormRules.resources
+\\buec-s-50009\s.otero$\cached\my documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.FormNotation.resources
+\\buec-s-50009\s.otero$\cached\my documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.FormRecord.resources
+\\buec-s-50009\s.otero$\cached\my documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.FormPlayGame.resources
+C:\Users\Zim\Documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.csprojResolveAssemblyReference.cache
+C:\Users\Zim\Documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.FormCreatePlayer.resources
+C:\Users\Zim\Documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.FormNotation.resources
+C:\Users\Zim\Documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.FormPlayGame.resources
+C:\Users\Zim\Documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.FormRecord.resources
+C:\Users\Zim\Documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.FormRules.resources
+C:\Users\Zim\Documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.MainForm.resources
+C:\Users\Zim\Documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.csproj.GenerateResource.Cache
+C:\Users\Zim\Documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.exe
+C:\Users\Zim\Documents\SharpDevelop Projects\Zenerala\Zenerala\bin\Debug\Zenerala.exe
+C:\Users\Zim\Documents\SharpDevelop Projects\Zenerala\Zenerala\bin\Debug\Zenerala.pdb
+C:\Users\Zim\Documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.pdb
+\\buec-s-50009\s.otero$\cached\my documents\SharpDevelop Projects\Zenerala\Zenerala\obj\Debug\Zenerala.FormCreatePlayer.resources
