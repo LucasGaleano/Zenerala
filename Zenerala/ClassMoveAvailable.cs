@@ -16,7 +16,9 @@ namespace Zenerala
 	public class ClassMoveAvailable
 	{
 		int[] Amount = new int[7] {0,0,0,0,0,0,0};
-		
+		bool generala;
+		bool poker;
+		int one = 0;
 			
 		public ClassMoveAvailable()
 		{
@@ -30,17 +32,14 @@ namespace Zenerala
 				Amount[j] = 0;
 			}
 			
-			for (int i = 1 ; i < 6 ; i++)
-			{
-				foreach (ClassDice x in Table.lstDiceInTable)
+			
+			foreach (ClassDice x in Table.lstDiceInTable)
 				{
-					if (x.NumDice == i)
-					{
-						Amount[i]++;
-					}
-				}
-			}
+					Amount[x.NumDice]++;			
+				}			
+			
 		}
+		//public void clear(ClassTable Table)
 		
 		public int MoveOne()
 		{
